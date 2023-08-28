@@ -1,0 +1,10 @@
+**Login Details**
+
+Admin
+
+Username: admin
+Password: 12345
+
+
+For Student you can just register one on the registration page
+
